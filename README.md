@@ -26,7 +26,7 @@ Light Mode:
 
 <br>
 <br>
-App Live on: "https://googlapp.netlify.app/"
+Live app https://googlapp.netlify.app/
 
 
 
